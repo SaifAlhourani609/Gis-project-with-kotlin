@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">MapsStudy</string>
+    <string name="title_activity_maps">Google Maps</string>
+    <string name="title_activity_maps_java">Map</string>
+
+    <string name="marquee_home">المسافة بين المدن طرابلس , عمان, على الطرق العامة غير — 5318.89 كم أو 3297.71 ميل. المسافة بين نقطة في إحداثيات — 2135 كم أو 1281 ميل. للتغلب على هذه المسافة بمتوسط ​​سرعة السيارة 80 كم / ساعة تتطلب — 26.7 ساعات أو 1601.3 دقائق.</string>
+
+</resources>
